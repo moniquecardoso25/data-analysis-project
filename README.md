@@ -1,6 +1,4 @@
-# Data Analysis Project
-
-# Sales Analysis
+# Sales Analysis Project
 
 ## Project Overview
 
